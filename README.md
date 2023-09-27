@@ -1,3 +1,5 @@
+![image](https://github.com/copy-and-execute/simple-ddos/assets/145934673/1cc87c0e-1de4-4495-a8f7-fc636f1ed913)
+
 ## simple DDoS Tool
 
 just a simple python script for an simple DDoS attack.
@@ -21,3 +23,4 @@ To use the tool, follow these steps:
 - Enter the IP of the target.
 
 #### this tool wont be updated. (as of 25.09.2023)
+
