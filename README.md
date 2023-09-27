@@ -20,4 +20,4 @@ To use the tool, follow these steps:
 
 - Enter the IP of the target.
 
-#### this Tool wont be updated. (as of 25.09.2023)
+#### this tool wont be updated. (as of 25.09.2023)
