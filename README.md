@@ -6,12 +6,14 @@ just a simple python script for an simple DDoS attack.
 
 ### Getting Started
 
-To get started, download/clone the repo and run the main.py
+To get started, download/clone the repo and run the main.py.
+(if not installed, install the reqiurements)
 
 ### Requirements
 
 - Python 3.9 or higher
-
+- [Libarys](https://github.com/copy-and-execute/simple-ddos/reqiurements.md)
+  
 ### Usage
 
 To use the tool, follow these steps:
