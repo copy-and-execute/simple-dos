@@ -3,6 +3,8 @@
 ## simple DDoS Tool
 
 just a simple python script for an simple DDoS attack.
+this tool is for educational porpuses only. 
+<br>you are responsible for any actions with this code/tool.
 
 ### Getting Started
 
