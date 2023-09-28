@@ -12,7 +12,7 @@ To get started, download/clone the repo and run the main.py.
 ### Requirements
 
 - Python 3.9 or higher
-- [Libarys](https://github.com/copy-and-execute/simple-ddos/reqiurements.md)
+- [Libarys](https://github.com/copy-and-execute/simple-ddos/blob/main/requirements.md)
   
 ### Usage
 
