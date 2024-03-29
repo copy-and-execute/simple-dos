@@ -22,7 +22,7 @@ To use the tool, follow these steps:
 
 - Open an terminal:
 - `cd simple-dos`
-- `python3 ddos.py`
+- `python3 main.py`
 
 - Enter the IP of the target.
 
