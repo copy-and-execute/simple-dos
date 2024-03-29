@@ -5,7 +5,7 @@ import socket
 import random
 
 print()
-print('    | DDoS Tool by → copy-and-execute (github.com/copy-and-execute/)')
+print('    | DoS Tool by → copy-and-execute (github.com/copy-and-execute/)')
 print('    | → This tool is only for educational purposes. Do not use this for illegal purposes.')
 print('    | → You are responsible for all actions you perform with this code/tool.')
 
