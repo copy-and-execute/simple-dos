@@ -1,4 +1,4 @@
-### Reqiurements
+### Requirements
 
 For this tool, you'll need
 
